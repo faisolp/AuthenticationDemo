@@ -1,4 +1,4 @@
-namespace YourApp.Settings
+namespace ODataDemo.Settings
 {
     public class JwtSettings
     {

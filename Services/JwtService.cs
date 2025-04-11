@@ -3,10 +3,10 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using YourApp.Models;
-using YourApp.Settings;
+using ODataDemo.Models;
+using ODataDemo.Settings;
 
-namespace YourApp.Services
+namespace ODataDemo.Services
 {
     public interface IJwtService
     {

@@ -1,8 +1,8 @@
 using System.Security.Cryptography;
 using System.Text;
-using YourApp.Models;
+using ODataDemo.Models;
 
-namespace YourApp.Services
+namespace ODataDemo.Services
 {
     public interface IUserService
     {

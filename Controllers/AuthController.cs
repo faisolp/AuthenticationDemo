@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using YourApp.Models;
-using YourApp.Services;
+using ODataDemo.Models;
+using ODataDemo.Services;
 
-namespace YourApp.Controllers
+namespace ODataDemo.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

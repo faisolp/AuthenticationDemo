@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace YourApp.Controllers
+namespace ODataDemo.Controllers
 {
     [Authorize]
     [ApiController]

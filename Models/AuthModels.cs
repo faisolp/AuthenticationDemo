@@ -1,4 +1,4 @@
-namespace YourApp.Models
+namespace ODataDemo.Models
 {
     public class RegisterModel
     {
